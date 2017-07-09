@@ -23,8 +23,8 @@ I think this is the base concept to implement any real time application like cha
 * Rubymine IDE
 
 ### Screenshots
-*![Notification Count before blog gets created](https://user-images.githubusercontent.com/209738/27991596-e732416e-649d-11e7-9f12-fd84d3d077c6.png)
-*![Notification Count after blog gets created](https://user-images.githubusercontent.com/209738/27991595-e73078c0-649d-11e7-8195-ebba19e52d2e.png)
+* Notification Count before blog gets created ![Notification Count before blog gets created](https://user-images.githubusercontent.com/209738/27991596-e732416e-649d-11e7-9f12-fd84d3d077c6.png)
+* Notification Count after blog gets created ![Notification Count after blog gets created](https://user-images.githubusercontent.com/209738/27991595-e73078c0-649d-11e7-8195-ebba19e52d2e.png)
 
 #### Inspired from
 Stefan Wintermeyer's [Article](https://medium.com/rubyinside/action-cable-hello-world-with-rails-5-1-efc475b0208b)
